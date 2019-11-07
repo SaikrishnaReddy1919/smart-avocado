@@ -5,7 +5,7 @@ img_path: ''
 menus:
   main:
     title: Skills
-    weight: -2
+    weight: 2
 template: page
 ---
 ****
