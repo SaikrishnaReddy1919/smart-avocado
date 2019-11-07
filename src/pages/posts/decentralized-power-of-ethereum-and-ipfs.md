@@ -1,7 +1,7 @@
 ---
 title: Decentralized power of Ethereum and IPFS
 date: 2019-11-07T10:22:26.484Z
-thumb_img_path: /images/ipfs-ethereum.png
+thumb_img_path: /images/1_jmkw9e9x4fbuju_v5wn4fg.png
 excerpt: >-
   Blockchains are terrible at storing large amounts of data. Seriously, they’re
   really bad at it. For example, depending on the cost of Ether, you’re looking
