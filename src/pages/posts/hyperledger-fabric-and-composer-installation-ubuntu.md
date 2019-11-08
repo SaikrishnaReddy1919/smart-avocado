@@ -275,9 +275,7 @@ export FABRIC_VERSION=hlfv12
 
 <p>If you&#39;ve previously used an older version of <strong>Hyperledger Composer</strong> and are now setting up a new install, you may want to kill and remove all previous Docker containers, which you can do with these commands:</p>
 
-<pre>
-
-<code> $ docker kill $(docker ps -q)
+<pre><code> $ docker kill $(docker ps -q)
 
  $ docker rm $(docker ps -aq)
 
@@ -286,8 +284,6 @@ export FABRIC_VERSION=hlfv12
 </code></pre>
 
 <p>&nbsp;</p>
-
-
 
 <h5>Mac user?</h5>
 
