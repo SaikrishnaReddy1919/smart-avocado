@@ -14,12 +14,12 @@ at Cognitiveclass.ai
 
 **<hr style="border: 0.5px solid blue;" />**
 
-**Bachelor of Technology** (2015-2019)
+**Bachelor of Technology** (2015-2019) - 67%
 
 at CMR Institute of Technology, Hyderabad
 
 **<hr style="border: 0.5px solid blue;" />**
 
-**HSC** (2013-2015)
+**HSC** (2013-2015) - 96.7%
 
 at Alphores Junior College, Karimnagar
