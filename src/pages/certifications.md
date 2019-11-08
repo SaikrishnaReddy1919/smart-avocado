@@ -4,7 +4,7 @@ subtitle: This section inlucdes my certifications and achievments.
 menus:
   main:
     title: Achievements
-    weight: 6
+    weight: 7
 template: page
 ---
 ## **Internship certificate:**
