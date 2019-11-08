@@ -3,7 +3,7 @@ title: Freelance works
 menus:
   main:
     title: Freelance works
-    weight: 7
+    weight: 8
 template: page
 ---
 # Updating soon... stay tuned!
