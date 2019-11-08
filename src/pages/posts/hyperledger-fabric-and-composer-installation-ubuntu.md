@@ -2,7 +2,9 @@
 title: Hyperledger Fabric and Composer Installation - Ubuntu
 date: 2019-11-08T10:22:26.484Z
 thumb_img_path: /images/2.jpg
-excerpt: ''
+excerpt: >-
+  Yes, composer deprecated but it makes your understanding easy. So, have a look
+  <img src="https://img.icons8.com/plasticine/100/000000/fat-emoji.png">
 template: post
 ---
 <h1>Installing pre-requisites</h1>
@@ -273,29 +275,19 @@ export FABRIC_VERSION=hlfv12
 
 <p>If you&#39;ve previously used an older version of <strong>Hyperledger Composer</strong> and are now setting up a new install, you may want to kill and remove all previous Docker containers, which you can do with these commands:</p>
 
-<pre><code>    docker kill $(docker ps -q)
+<pre>
 
-\    docker rm $(docker ps -aq)
+<code> $ docker kill $(docker ps -q)
 
-\    docker rmi $(docker images dev-* -q)
+ $ docker rm $(docker ps -aq)
+
+ $ docker rmi $(docker images dev-* -q)
 
 </code></pre>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <h5>Mac user?</h5>
 
