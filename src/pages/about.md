@@ -24,7 +24,7 @@ template: page
 
 <hr>
 
-<img src="https://img.icons8.com/color/96/000000/ethereum.png"><img src="https://img.icons8.com/officel/80/000000/blockchain.png"><img src="https://img.icons8.com/ios-filled/96/000000/iota.png"><img src="https://repository-images.githubusercontent.com/66573241/e4a04d80-cd1c-11e9-8af2-786d342820bb" width="" height="100">
+<img src="https://img.icons8.com/color/96/000000/ethereum.png"><img src="https://img.icons8.com/officel/80/000000/blockchain.png"><img src="https://img.icons8.com/ios-filled/96/000000/iota.png"><img src="https://repository-images.githubusercontent.com/66573241/e4a04d80-cd1c-11e9-8af2-786d342820bb" width="50" height="50">
 
 <hr>
 
