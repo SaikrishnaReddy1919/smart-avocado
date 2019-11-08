@@ -18,3 +18,11 @@ template: page
 ## **Blockchain Essentials by** cognetivclass.ai:
 
 <a href='https://drive.google.com/file/d/1f_3D56mTp-Hjk7gynxiknkajJQCEL2yQ/view?usp=drive_open&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://lh4.googleusercontent.com/V2CyrlVuhIxOgFiEAkck6YmXoByMHRY4J6xvvTCzNWiHGXd8dxIUOECAfNE=w2400' /></a>
+
+**<hr style="border: 2px solid blue;" />**
+
+- - -
+
+## IBM Blockchain Foundation Developer:
+
+<a href='https://drive.google.com/file/d/1W0qMBLvVSayYLysESjJdQlX0y_FELkEI/view?usp=drive_open&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/HbZ4YVz_MJNUHhHg2D7V6-x5na9FbZkv8hHQcaUmh4QsWWKPZbyBaYYG8ow=w2400' /></a>
