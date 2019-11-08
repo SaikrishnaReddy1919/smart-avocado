@@ -2,7 +2,7 @@
 title: Education
 menus:
   main:
-    weight: 8
+    weight: 2
 template: page
 ---
 **Blockchian Learning** (Nov-1st-2019 to Present)
