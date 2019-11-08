@@ -3,7 +3,7 @@ title: Projects
 menus:
   main:
     title: Projects
-    weight: 3
+    weight: 4
 template: page
 ---
 <h2>Project-1:</h2>
