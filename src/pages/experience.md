@@ -16,3 +16,4 @@ at DIGIOTAI SOLUTIONS PVT LTD
 * **Research, develop and test blockchain technologies.**
 * **Document new solutions and maintaining existing ones.**
 * **Be active in blockchain community - implementing and integrating new improvement proposals.**
+* **Worked on Hyperledger fabric network setup for different usecases and updating it when needed.**
