@@ -3,7 +3,7 @@ title: Contact
 menus:
   main:
     title: Contact
-    weight: 7
+    weight: 8
 template: contact
 ---
 To get in touch fill the form below.
