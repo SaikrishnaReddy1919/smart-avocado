@@ -28,4 +28,4 @@ template: page
 
 <hr>
 
-<img src="https://img.icons8.com/color/96/000000/linux.png"><img src="https://img.icons8.com/color/96/000000/ubuntu.png"><img src="https://img.icons8.com/color/96/000000/docker.png"><img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"><img src="https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png" width="" height="100"><img src="https://img.icons8.com/color/96/000000/github--v1.png">
+<img src="https://img.icons8.com/color/96/000000/linux.png"><img src="https://img.icons8.com/color/96/000000/ubuntu.png"><img src="https://img.icons8.com/color/96/000000/docker.png"><img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"><img src="https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png" width="90" height="120"><img src="https://img.icons8.com/color/96/000000/github--v1.png">
