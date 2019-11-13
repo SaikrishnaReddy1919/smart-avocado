@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "techblog",
+      "title": "1919techBlog",
+      "url": "https://1919tech-blog-be501.netlify.com/",
+      "weight": 10
+    }
+  ]
+}
