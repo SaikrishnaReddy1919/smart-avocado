@@ -1,12 +1,13 @@
 ---
-title: Digital Signature in Blockchain
-subtitle: >-
+title: What is Digital Signature?
+subtitle: ''
+date: 2019-11-21T10:13:48.568Z
+thumb_img_path: /images/download.jpeg
+excerpt: >-
   A digital signature is a cryptographic mechanism used to verify the
   authenticity and integrity of digital data. We may consider it as a digital
   version of the ordinary handwritten signatures, but with higher levels of
   complexity and security.
-date: 2019-11-21T10:13:48.568Z
-thumb_img_path: /images/download.jpeg
 template: post
 ---
 **
