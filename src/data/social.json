@@ -11,6 +11,11 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/"
+    },
+    {
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/krishna21355141"
     }
   ]
 }
