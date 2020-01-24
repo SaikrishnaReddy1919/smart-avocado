@@ -25,7 +25,7 @@ sections:
     type: contentblock
   - actions:
       - label: View Blog
-        url: 'https://krishna-blockchain-dlt.hashnode.dev/'
+        url: blog/index.html
     component: PostsBlock
     num_posts_displayed: 4
     section_id: recent-posts
