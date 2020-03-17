@@ -10,9 +10,9 @@ sections:
         url: /contact
     component: ContentBlock
     content: >-
-      Computer science engineering graduate having an experience of 8 months as
-      a **'Blockchain-Development-Intern'**. Seeking a job with an opportunity
-      for professional challenges the field of blockchain technology. 
+      Computer science engineering graduate having an experience of 1-year as a
+      **'Blockchain Developer'**. Seeking a job with an opportunity mainly in
+      the field of blockchain and its related technologies.
 
 
       **Areas of Interests:**
@@ -37,4 +37,3 @@ menus:
     weight: 1
 template: home
 ---
-
