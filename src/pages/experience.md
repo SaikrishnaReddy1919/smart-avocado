@@ -12,6 +12,7 @@ at DIGIOTAI SOLUTIONS PVT LTD
 
 **Responsibilites:**
 
+* **Worked on developing decentralized applications for different usecases.**
 * **Experienced in working with smart contracts, public-private testnetworks and testing, deploying smart contracts.**
 * **Research, develop and test blockchain technologies.**
 * **Document new solutions and maintaining existing ones.**
