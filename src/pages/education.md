@@ -14,7 +14,7 @@ at Cognitiveclass.ai
 
 **<hr style="border: 0.5px solid blue;" />**
 
-**Bachelor of Technology** (2015-2019) - 67%
+**Bachelor of Technology** (2015-2019) - 70%
 
 at CMR Institute of Technology, Hyderabad
 
