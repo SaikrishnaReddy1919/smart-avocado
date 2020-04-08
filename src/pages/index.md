@@ -10,15 +10,15 @@ sections:
         url: /contact
     component: ContentBlock
     content: >-
-      Computer science engineering graduate having an experience of 1-year as a
-      **'Blockchain Developer'**. Seeking a job with an opportunity mainly in
-      the field of blockchain and its related technologies.
+      Computer science engineering graduate having an experience of 1-year in
+      **'Blockchain'** field. Seeking a job with an opportunity mainly in the
+      field of blockchain and its related technologies.
 
 
       **Areas of Interests:**
 
 
-      Blockchain technology(Ethereum, Hyperledger), Computer networks and
+      Blockchain technology(Ethereum, Hyperledger, IOTA), Computer networks and
       security, Internet of things.
     section_id: about
     title: About
