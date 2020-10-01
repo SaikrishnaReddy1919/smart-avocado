@@ -8,7 +8,7 @@ excerpt: Eth2 is a long-planned upgrade to the Ethereum network, giving it the
   Eth2, called Phase 0, is planned to launch in 2020.
 menus:
   main:
-    title: Eth2
+    title: ""
 template: post
 ---
 Eth2 is a community effort and there are ways you can play a part. Currently you can help out by running Eth2 clients, hacking testnets or staking your test ETH.
