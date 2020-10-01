@@ -1,0 +1,14 @@
+---
+title: What are MERKLE TREES?
+subtitle: What is Merkle tree and what does it do?
+date: 2020-10-01T19:35:16.289Z
+thumb_img_path: /images/merkletree-min-1024x512.png
+menus:
+  main:
+    title: Merkle Tree
+    weight: -5
+template: post
+---
+**To get the brief explanation about what merkle trees are visit below page.**
+
+[Merkle Trees](<https://www.chainshot.com/article/what-are-merkle-trees>)
