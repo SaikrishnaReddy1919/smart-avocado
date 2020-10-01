@@ -2,24 +2,17 @@
 title: Home
 sections:
   - component: HeroBlock
-    content: ''
+    content: ""
     section_id: hero
     type: heroblock
   - actions:
       - label: Contact Me
         url: /contact
     component: ContentBlock
-    content: >-
-      Computer science engineering graduate having an experience of 1-year in
-      **'Blockchain'** field. Seeking a job with an opportunity mainly in the
-      field of blockchain and its related technologies.
-
-
-      **Areas of Interests:**
-
-
-      Blockchain technology(Ethereum, Hyperledger, IOTA), Computer networks and
-      security, Internet of things.
+    content: I am a Computer Science graduate with one year experience in developing
+      web and blockchain applications. Certified in web developement and
+      blockchain development. Seeking to further improve my **MERN stack and
+      Blockchain** skills as the future **Full Stack Blockchain Developer**.
     section_id: about
     title: About
     type: contentblock
