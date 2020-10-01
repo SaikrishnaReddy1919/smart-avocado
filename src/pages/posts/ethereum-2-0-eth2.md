@@ -9,7 +9,8 @@ excerpt: Eth2 is a long-planned upgrade to the Ethereum network, giving it the
 menus:
   main:
     title: ""
-    weight: 9
+    weight: ""
+    identifier: "6"
 template: post
 ---
 Eth2 is a community effort and there are ways you can play a part. Currently you can help out by running Eth2 clients, hacking testnets or staking your test ETH.
