@@ -9,10 +9,13 @@ sections:
       - label: Contact Me
         url: /contact
     component: ContentBlock
-    content: I am a Computer Science graduate with one year experience in developing
-      web and blockchain applications. Certified in web developement and
-      blockchain development. Seeking to further improve my **MERN stack and
-      Blockchain** skills as the future **Full Stack Blockchain Developer**.
+    content: >-
+      **\[Note : This website is under development...thankyou for visiting]**
+
+
+
+
+      I am a Computer Science graduate with one year experience in developing web and blockchain applications. Certified in web developement and blockchain development. Seeking to further improve my **MERN stack and Blockchain** skills as the future **Full Stack Blockchain Developer**.
     section_id: about
     title: About
     type: contentblock
