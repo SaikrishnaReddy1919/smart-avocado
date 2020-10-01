@@ -5,3 +5,4 @@ menus:
     weight: 9
 template: page
 ---
+[ClickHere](goole.com)
