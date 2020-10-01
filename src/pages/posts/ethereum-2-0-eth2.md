@@ -10,7 +10,7 @@ menus:
   main:
     title: ""
     weight: ""
-    identifier: "6"
+    identifier: ""
 template: post
 ---
 Eth2 is a community effort and there are ways you can play a part. Currently you can help out by running Eth2 clients, hacking testnets or staking your test ETH.
