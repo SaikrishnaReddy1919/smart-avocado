@@ -13,7 +13,7 @@ template: post
 ---
 Eth2 is a community effort and there are ways you can play a part. Currently you can help out by running Eth2 clients, hacking testnets or staking your test ETH.
 
-## Eth2 roadmap
+## Eth2 roadmap:
 
 The road to Eth2 is long and winding but there are some important checkpoints along the way.
 
@@ -52,7 +52,5 @@ For end users and dapps, this change should be seamless.
 Expected: 2021+
 
 In Phase 2, shards should be fully functional chains. Shards will now be compatible with smart contracts and they'll be able to communicate with each other more freely. Developers may even be able to design shards in their own ways.
-
-
 
 **Read full article [HERE.](https://ethereum.org/en/eth2/)**
