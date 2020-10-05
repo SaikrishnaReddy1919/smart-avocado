@@ -6,7 +6,7 @@ menus:
     weight: 5
 template: page
 ---
-**Blockchain-Developer Intern** ( Feb-2019 to Dec-2019)
+**Blockchain-Developer Intern** ( Mar-2019 to Dec-2019)
 
 at DIGIOTAI SOLUTIONS PVT LTD
 
