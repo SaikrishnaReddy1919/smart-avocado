@@ -6,11 +6,11 @@ menus:
     title: Projects
 template: page
 ---
-**Please visit my github profile for more projects. For testing I am attaching one video here. Soon will upload all details about projects \[From source code to - execution]. Keep watching my github repos.**
+**Please visit my github profile for more projects. For testing I am attaching one video here. Soon I will upload all details about my projects \[From source code to - execution]. Keep watching my github repos.**
 
 **\[This website is still under development...have been trying and testing lot of things...]**
 
-**In future, will upload all videos to a new youtube channel.**
+**In future, will upload all videos to a new youtube channel. The project shown in the video below is a private project so you cannot find it in my repos. I will make it public once I done with the todos mentioned in the video.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2BBCHAXCcM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
