@@ -33,4 +33,4 @@ template: page
 
 ## Full Stack MERN Bootcamp:
 
-<a href='https://drive.google.com/file/d/1hlqCO1W3Sei4j_y6WgkjE16S-TzPwWjz/view?usp=drive_open&amp;usp=embed_facebook&source=ctrlq.org'><img src='[](https://s3-ap-southeast-1.amazonaws.com/learnyst/schools/2410/certificates/50332/584573_50332.png)<https://s3-ap-southeast-1.amazonaws.com/learnyst/schools/2410/certificates/50332/584573_50332.png>' /></a>
+<a href='https://drive.google.com/file/d/1hlqCO1W3Sei4j_y6WgkjE16S-TzPwWjz/view?usp=drive_open&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://s3-ap-southeast-1.amazonaws.com/learnyst/schools/2410/certificates/50332/584573_50332.png' /></a>
