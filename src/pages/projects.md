@@ -6,6 +6,8 @@ menus:
     title: Projects
 template: page
 ---
+![passion projects image](/images/stayathom-passionprojects.jpg)
+
 **Please visit my github profile for more projects. For testing I am attaching one video here. Soon I will upload all details about my projects \[From source code to - execution]. Keep watching my github repos.**
 
 **\[This website is still under development...have been trying and testing lot of things...]**
